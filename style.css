@@ -176,3 +176,13 @@ input[type='submit']
 input[type='submit']:active{
     opacity: 0.8;
 }
+.copyright {
+    color: rgba(255, 255, 255, 0.697);
+    margin-top: 50px;
+    text-align: center;
+}
+
+.copyright a {
+    text-decoration: none;
+    color: var(--main-color);
+}
